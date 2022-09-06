@@ -1,0 +1,3 @@
+#!/bin/bash
+greo -$ "root"/etc/passwd
+
